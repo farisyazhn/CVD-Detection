@@ -10,3 +10,7 @@ Uncover the secrets within the `CVDriskPrediction.ipynb` notebook, where the mag
 
 ## 📄 Original Dataset
 Discover the heart of our analysis in the `cardiovascular_risk.csv` file, the cornerstone of insights driving our predictive models.
+
+### Additional Notes 
+More addition to the algorithm can be implemented into the code to achieve an increase in accuracy. 
+This risk prediction can be implemented into a website to further analyse the cardiovascular disease in a real-world application 
