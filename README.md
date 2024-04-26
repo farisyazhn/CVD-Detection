@@ -1,11 +1,12 @@
-# Dataset link
-Source on Kaggle: [Cardiovascular Risk Prediction](https://www.kaggle.com/mamta1999/cardiovascular-risk-data)
+# 🩺 CVD Risk Prediction 🚀
 
-# CVD Risk Prediction
-Code file ('CVDriskPrediction') will contain the notebook of the model for cardiovascular risk prediction using machine learning
+Welcome to our Cardiovascular Risk Prediction project! Here, we delve into the realm of health and data to forecast cardiovascular risks using cutting-edge machine learning techniques.
 
-# Video
-Video ('Code Explanation.mp4') is the demonstration of the machine learning algorithms used in training the model for the dataset
+## 📊 Dataset Link
+Dive into the data on Kaggle: [Cardiovascular Risk Prediction](https://www.kaggle.com/mamta1999/cardiovascular-risk-data)
 
-# Original Dataset
-cardiovascular_risk.csv contains the exact dataset used 
+## 🖥️ Code File
+Uncover the secrets within the `CVDriskPrediction.ipynb` notebook, where the magic of machine learning unfolds, guiding us through the intricate terrain of cardiovascular risk prediction.
+
+## 📄 Original Dataset
+Discover the heart of our analysis in the `cardiovascular_risk.csv` file, the cornerstone of insights driving our predictive models.
